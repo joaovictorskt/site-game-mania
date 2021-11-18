@@ -1,0 +1,159 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+#nav-inf{
+position: fixed;
+z-index: 999;
+background-color: rgb(0, 0, 0);
+width: 100%;
+}
+
+
+#nav-inf a{
+align-items: center;
+color: rgb(255, 255, 255);
+padding: 40px;
+text-decoration: none;
+float: right;
+display: inline;
+justify-content: center;
+transition: background .4s;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+#nav-inf li a:hover{
+    background-color: #8136a3;
+}
+
+#nav-inf ul li{
+    display:inline;
+    
+}
+
+/* acesso */
+
+.ac img{
+    margin-top: 5%;
+}
+
+.ac{
+    background-image: url(../imagem/acesso.png);
+    display: inline-block;
+    width: 100%;
+}
+
+.ac a{
+    display: inline;
+    margin-left: 50px;
+    
+}
+
+.ac a{
+    font-size: 20px;
+    color: rgb(216, 216, 216);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    list-style-type: none;
+    text-decoration: none;
+}
+
+.ac ul li{
+    display: inline-block;
+    align-items: center;
+    padding: 11px;
+    justify-content: space-between;
+    padding-left: 140px;     
+}
+
+.sessao{
+    display: flex;
+}
+
+.opcoes{
+display: inline;
+justify-content: center;
+font-style: oblique;
+padding-top: 80px;
+}
+
+.opcoes{
+    padding: 20px;
+    margin: 3%;
+    text-align: center;
+}
+.opcoes ul{
+    display: inline-block;
+    list-style-type: none;
+    font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+.info-hm{
+   
+    width: 100%;
+    padding-top: 5%;
+    display: flexbox;
+    padding-bottom: 10%;
+}
+
+.info-hm img{
+    margin-left: 10%;
+    margin-bottom: 20%;
+    padding-top: 20%;
+
+}
+
+
+.info-hm{
+    
+    width: 100%;
+    padding-top: 100px;
+    display: flexbox;
+}
+
+.info-hm span{
+    display: inline-block;
+    margin-left: 50px;
+    font-size: 20px;
+}
+
+.info-hm{
+    width: 100%;
+    padding-top: 10px;
+    display: flexbox;
+}
+
+
+
+
+.rodape{
+    color: rgb(255, 255, 255);
+    background-image: url(../imagem/rodape.png);
+    opacity: 0.9;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+
+
+.rodape .inf-info{
+    margin-left: 13%;
+    margin-right: 13%;
+}
+
+.rodape a{ 
+    font-variant:small-caps;
+    color:  rgb(253, 252, 252);
+    text-decoration: none;
+    list-style-type: none;
+}
+
+.rodape li{
+    padding: 5px;
+    list-style-type: none;
+}
