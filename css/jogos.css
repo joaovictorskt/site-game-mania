@@ -4,9 +4,6 @@
 
 }
 
-body{
-    overflow-x: hidden;
-}
 
 #nav-jog{
     position: fixed;
@@ -113,7 +110,7 @@ padding-top: 80px;
 }
 
 .jog-gc img{
-    margin-left: 10%;
+  
     margin-bottom: 20%;
     padding-top: 10%;
 }
@@ -145,7 +142,7 @@ padding-top: 80px;
 
 
 .rodape .jog-info{
-    margin-left: 13%;
+    margin-left: 10%;
     margin-right: 13%;
 }
 
