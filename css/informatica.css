@@ -4,9 +4,6 @@
     box-sizing: border-box;
 }
 
-body{
-    overflow-x: hidden;
-}
 
 #nav-inf{
 position: fixed;
@@ -105,7 +102,6 @@ padding-top: 80px;
 }
 
 .info-hm img{
-    margin-left: 10%;
     margin-bottom: 20%;
     padding-top: 20%;
 
@@ -146,7 +142,7 @@ padding-top: 80px;
 
 
 .rodape .inf-info{
-    margin-left: 13%;
+    margin-left: 10%;
     margin-right: 13%;
 }
 
