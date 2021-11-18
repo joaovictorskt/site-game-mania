@@ -14,7 +14,6 @@ width: 100%;
 #navbar a{
 padding: 40px;
 color: rgb(255, 255, 255);
-padding: px;
 text-decoration: none;
 float: right;
 display: inline;
@@ -34,6 +33,7 @@ font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .acesso img{
+    width: 100%;
     margin-top:  5%;
     
 }
