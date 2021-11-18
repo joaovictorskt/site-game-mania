@@ -7,9 +7,6 @@
    
 }
 
-body{
-    overflow-x: hidden;
-}
 
 
 #nav-con{
@@ -112,7 +109,7 @@ padding-top: 80px;
 padding-top: 100px;
 display: flexbox;
 padding-bottom: 10%;
-margin-left: 50px
+
 
 } 
 
@@ -125,13 +122,13 @@ margin-left: 50px
 .con-pn{
     padding-top: 100px;
     display: flexbox;
-    margin-left: 50px
+   
 }
 
 .con-pn{
     padding-top: 100px;
     display: flexbox;
-    margin-left: 50px
+  
 }
 
 
@@ -150,7 +147,7 @@ margin-left: 50px
 
 
 .rodape .con-info{
-    margin-left: 13%;
+    margin-left: 10%;
     margin-right: 13%;
 }
 
