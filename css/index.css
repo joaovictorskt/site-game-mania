@@ -3,6 +3,11 @@
     margin: 0%;
 }
 
+body{
+    overflow-x: hidden;
+}
+
+
 #navbar{
 position: fixed;
 z-index: 999;
