@@ -4,6 +4,10 @@
 
 }
 
+body{
+    overflow-x: hidden;
+}
+
 #nav-jog{
     position: fixed;
     z-index: 999;
