@@ -7,7 +7,6 @@
 } 
 
 body{
-    overflow-x: hidden;
 background-color: rgba(253, 253, 253, 0.521);
 }
 
@@ -112,7 +111,7 @@ padding-top: 80px;
 }
 
 .ac-hmt img{
-    margin-left: 10%;
+
     margin-bottom: 10%;
 padding-top: 10%;
 }
@@ -150,7 +149,7 @@ padding-top: 10%;
 }
 
 .rodape .ac-info{
-    margin-left: 13%;
+    margin-left: 10%;
     margin-right: 13%;
 }
 
