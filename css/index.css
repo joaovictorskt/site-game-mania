@@ -3,9 +3,6 @@
     margin: 0%;
 }
 
-body{
-    overflow-x: hidden;
-}
 
 
 #navbar{
@@ -149,7 +146,7 @@ h1{
 }
 
 .rodape .info{
-    margin-left: 13%;
+    margin-left: 10%;
     margin-right: 13%;
 }
 
