@@ -7,6 +7,11 @@
    
 }
 
+body{
+    overflow-x: hidden;
+}
+
+
 #nav-con{
     position: fixed;
     z-index: 999;
